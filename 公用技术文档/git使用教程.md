@@ -3,13 +3,13 @@
 
 进入要协作的项目，打开设置，添加成员
 <div align="center">
-<img src="图片池\git图片1.png" alt="综述图1">
+<img src=".\图片池\git图片1.png" alt="综述图1">
 </div>
 <div align="center">
-<img src="图片池\git图片2.png" alt="综述图1">
+<img src=".\图片池\git图片2.png" alt="综述图1">
 </div>
 <div align="center">
-<img src="图片池\git图片3.png" alt="综述图1">
+<img src=".\图片池\git图片3.png" alt="综述图1">
 </div>
 
 ## Git成员操作：
@@ -24,7 +24,7 @@
 在cursor中新建git bash终端
 </div>
 <div align="center">
-<img src="图片池\git5.png" alt="综述图1">
+<img src=".\图片池\git5.png" alt="综述图1">
 </div>
 
 ---
